@@ -21,4 +21,4 @@ for i in range(n+1):
         s+=int(seq[i])*(a**(n-i)*b**(i))
     else:
         s+=int((-1)*(a**(n-i)*b**(i)))
-print(abs(f))
+print(abs(s%f))
