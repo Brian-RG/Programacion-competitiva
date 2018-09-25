@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Sep 24 12:15:16 2018
-
 @author: brian
 """
 seq=[]
