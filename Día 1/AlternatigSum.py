@@ -1,8 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 24 12:15:16 2018
-@author: brian
-"""
+import sys
+
+sys.setrecursionlimit(100000)
 seq=[]
 n,a,b,k=(int(x) for x in input().split(" "))
 for c in input():

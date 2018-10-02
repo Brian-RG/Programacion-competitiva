@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Sep 24 20:04:04 2018
-
 @author: brian
 """
 
